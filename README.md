@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Reishan10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Reishan10&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **Reishan10/Reishan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
