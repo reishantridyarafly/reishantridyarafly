@@ -31,10 +31,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 📇 Contact Me :
 
-[![@Reishan10](https://img.icons8.com/fluency/48/000000/instagram-new.png "@reishan.rafly")](https://www.instagram.com/reishan.rafly/) 
-[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushka_wije")](https://twitter.com/anushka_wije) 
-[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) 
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@reishan.rafly](https://img.icons8.com/fluency/48/000000/instagram-new.png "@reishan.rafly")](https://www.instagram.com/reishan.rafly/) 
+[![@reishan.rafly](https://img.icons8.com/fluency/48/000000/facebook.png "@reishan.rafly")](https://www.facebook.com/reishan.rafly)
+<!-- [![@Reishan10](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushka_wije")](https://twitter.com/anushka_wije)  -->
+[![@0895617545305](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0895617545305")](tel:0895617545305) 
+[![@reishantridyarafly@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@reishantridyarafly@gmail.com")](reishantridyarafly@gmail.com)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
