@@ -29,6 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### :woman_technologist: Contact Me :
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
