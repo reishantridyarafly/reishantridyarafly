@@ -60,6 +60,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Reishan10&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reishan10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Reishan10/Reishan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
