@@ -33,9 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![@reishan.rafly](https://img.icons8.com/fluency/48/000000/instagram-new.png "@reishan.rafly")](https://www.instagram.com/reishan.rafly/) 
 [![@reishan.rafly](https://img.icons8.com/fluency/48/000000/facebook.png "@reishan.rafly")](https://www.facebook.com/reishan.rafly)
-<!-- [![@Reishan10](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushka_wije")](https://twitter.com/anushka_wije)  -->
 [![@0895617545305](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0895617545305")](tel:0895617545305) 
 [![@reishantridyarafly@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@reishantridyarafly@gmail.com")](reishantridyarafly@gmail.com)
+<!-- [![@Reishan10](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushka_wije")](https://twitter.com/anushka_wije)  -->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
