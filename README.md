@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Web Developer Cirebon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
 - :telescope: I’m working as a web developer contributing to the backend to build web applications.
 
