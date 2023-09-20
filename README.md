@@ -58,7 +58,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Reishan10&theme=radical&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 [![Reishan10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Reishan10&theme=radical)](https://github.com/Reishan10/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reishan10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
