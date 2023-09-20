@@ -57,8 +57,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
-//github.com/Reishan10/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reishan10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
