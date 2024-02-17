@@ -56,16 +56,12 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
+<!--
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reishan10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+-->
 
 Credit: [Reishan Tridya Rafly](https://github.com/Reishan10)
-
-Last edited on: 28/09/2022
 
 <!--
 **Reishan10/Reishan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
